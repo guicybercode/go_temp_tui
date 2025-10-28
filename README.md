@@ -4,7 +4,7 @@
 
 A clean, animated, phone-style weather widget for the terminal.
 
-<img src="clima.png" width="500"/>
+<img src="clima.png" width="800"/>
 </div>
 
 - ASCII icons and figlet titles
@@ -78,4 +78,5 @@ References: [GitHub profile](https://github.com/guicybercode), [Target repositor
 ## 성경 구절 (시편 4편)
 
 평안히 내가 눕고 자기도 하리니 나를 안전히 살게 하시는 이는 오직 여호와이시니이다.
+
 

@@ -1,6 +1,11 @@
 # go_temp_tui – Clean Terminal Weather Widget
 
+<div align="center">
+
 A clean, animated, phone-style weather widget for the terminal.
+
+<img src="clima.png" width="500"/>
+</div>
 
 - ASCII icons and figlet titles
 - Smooth animations powered by Bubble Tea ticks
@@ -73,3 +78,4 @@ References: [GitHub profile](https://github.com/guicybercode), [Target repositor
 ## 성경 구절 (시편 4편)
 
 평안히 내가 눕고 자기도 하리니 나를 안전히 살게 하시는 이는 오직 여호와이시니이다.
+
